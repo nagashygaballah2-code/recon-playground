@@ -1,0 +1,4 @@
+mx-central-1.awsc-preprod.aws.amazon.com:443
+shopify-dev.shopify-dev-staging-unrestricted-3.es-apps-b-us-ce1-jg2.elasticsearch.shopifycloud.com:443
+shopify-dev.shopify-dev-staging-unrestricted-dgsb.es-apps-b-us-ce1-jg2.elasticsearch.shopifycloud.com:443
+shopify-dev.shopify-dev-staging-unrestricted-ltpw.es-apps-b-us-ea1-my5.elasticsearch.shopifycloud.com:443
