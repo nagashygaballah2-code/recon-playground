@@ -1,0 +1,10 @@
+api-staging.kws.ol.epicgames.com:443
+confluence-redirect.bbdc.dev.use1a.on.epicgames.com:443
+content-download-egs.distro.on.epicgames.com:443
+dev-lookup-auth.artpipe.epicgames.com:443
+fncp-locales.on.epicgames.com:443
+fortnite-matchmaking-public-service-live-nac.ol.epicgames.com:443
+labeling.fabd.dev.use1a.on.epicgames.com:443
+vidgen.x.ai:443
+vidgen.x.ai:8080
+vidgen.x.ai:8443
