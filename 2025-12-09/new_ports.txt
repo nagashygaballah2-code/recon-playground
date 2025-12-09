@@ -1,0 +1,8 @@
+data-portal.shopify.io:443
+data-portal.shopify.io:8080
+data-portal.shopify.io:8443
+internal.titan.crypto.com:443
+internal.titan.crypto.com:8080
+internal.titan.crypto.com:8443
+psn-hub.shopify.io:443
+studio.shopify.io:443
