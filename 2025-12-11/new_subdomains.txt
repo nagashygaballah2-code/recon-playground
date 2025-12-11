@@ -1,0 +1,15 @@
+dplat-security.prod.corp.mongodb.com
+dplat-security.staging.corp.mongodb.com
+fl.corp.stripe.com
+fl.qa.corp.stripe.com
+inference.tesla.com
+lpt-artifact-service-beta-test-midway.corp.amazon.com
+lpt-artifact-service-midway.integ.amazon.com
+matchmaking-log-triage-development.dcaf.dev.use1a.on.epicgames.com
+matchmaking-log-triage.dcaf.dev.use1a.on.epicgames.com
+portkey-live.dfaf.live.use1a.on.epicgames.com
+reportify-clickhouse-prod-us-ea1-zb9.shard-0.reportify.reportify-clickhouse.shopifycloud.com
+reportify-clickhouse-prod-us-ea1-zb9.shard-50.reportify.reportify-intermediate-clickhouse.shopifycloud.com
+reportify-clickhouse-staging-us-ce1-ey2.shard-3.reportify.reportify-intermediate-clickhouse-staging-1.shopifycloud.com
+test-digicert-cert.stripe.com
+www.tr.okx.com

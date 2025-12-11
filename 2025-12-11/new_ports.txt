@@ -1,0 +1,2 @@
+fl.corp.stripe.com:443
+lpt-artifact-service-midway.integ.amazon.com:443
