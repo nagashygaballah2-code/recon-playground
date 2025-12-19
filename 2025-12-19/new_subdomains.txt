@@ -1,0 +1,7 @@
+dsps-preprod.amazon.com
+kringle-cf.robinhood.com
+misv2-zeta.corp.amazon.com
+regulatoryweb.ebay.com
+resolution.ebay.com
+server-release.prod.corp.mongodb.com
+sidekick-staging-10.shopify.com

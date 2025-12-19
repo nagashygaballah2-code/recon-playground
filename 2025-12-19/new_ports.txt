@@ -1,0 +1,6 @@
+kringle-cf.robinhood.com:443
+kringle-cf.robinhood.com:8080
+kringle-cf.robinhood.com:8443
+sidekick-staging-10.shopify.com:443
+sidekick-staging-10.shopify.com:8080
+sidekick-staging-10.shopify.com:8443
