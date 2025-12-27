@@ -1,0 +1,11 @@
+example.shopify.com:443
+example.shopify.com:8080
+example.shopify.com:8443
+mars-dev-feature-7966-t-dev.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21605.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21613.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21628.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21641.dataplatform-dev.staging.corp.mongodb.com:443
+smtp1.shopify.com:443
+smtp1.shopify.com:8080
+smtp1.shopify.com:8443
