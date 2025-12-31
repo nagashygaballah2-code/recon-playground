@@ -1,0 +1,11 @@
+admin-web-staging-unre-hfuzgtrq-commerce-loop-canary-us-ce1-zw1.shopifycloud.com:443
+api.dev.experiences.crypto.com:443
+api.stg.experiences.crypto.com:443
+dev.tickets.crypto.com:443
+mars-e2e-21665.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21671.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21682.dataplatform-dev.staging.corp.mongodb.com:443
+slapi.dev.travel.crypto.com:443
+webview.titan.crypto.com:443
+webview.titan.crypto.com:8080
+webview.titan.crypto.com:8443
