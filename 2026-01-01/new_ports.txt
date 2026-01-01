@@ -1,0 +1,14 @@
+api.test68.stage.paypal.com:443
+api.test69.stage.paypal.com:443
+api.test70.stage.paypal.com:443
+api.test71.stage.paypal.com:443
+api.test72.stage.paypal.com:443
+bu-partner-monitoring.stage.paypal.com:443
+dev-qa-www-build-16935-test-revert.app.elstc.co:443
+mars-e2e-21690.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21693.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21705.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21706.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21709.dataplatform-dev.staging.corp.mongodb.com:443
+www.internalsocialmessaging.stage.paypal.com:443
+www.test69.stage.paypal.com:443
