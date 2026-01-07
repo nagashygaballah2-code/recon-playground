@@ -1,0 +1,10 @@
+decbc.kibana.shopifycloud.com:443
+dev-buildkite-slack-16949.app.elstc.co:443
+elasticsearch.kibana.u2-production.shopifycloud.com:443
+elasticsearch.kibana.u2-staging.shopifycloud.com:443
+mars-e2e-21828.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21836.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21843.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21855.dataplatform-dev.staging.corp.mongodb.com:443
+mars-e2e-21857.dataplatform-dev.staging.corp.mongodb.com:443
+www.travel.crypto.com:443
