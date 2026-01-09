@@ -2,7 +2,7 @@ name: Smart Recon — Unified Enumeration & Central Baseline
 
 on:
   schedule:
-    - cron: '0 1 */2 * *'   # Every 4 days at 02:00 UTC
+    - cron: '0 3 */2 * *'   # Every 4 days at 02:00 UTC
   workflow_dispatch:
 
 permissions:
