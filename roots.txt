@@ -111,8 +111,6 @@ helloworks.com
 hellosign.com
 prod-ffs.io
 monzo.com
-elastic.co
-elastic.dev
 elasticnet.co
 elstc.co
 eops.nl
