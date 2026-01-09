@@ -167,7 +167,6 @@ trello.services
 umiloans.com.au
 unscreen.com
 uscc.com
-uscc.net
 uscellular.com
 verisign.com
 verisign-grs.com
