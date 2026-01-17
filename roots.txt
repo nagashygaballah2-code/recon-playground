@@ -63,7 +63,6 @@ tesla.services
 tiktokv.com
 tiktok.com
 unrealengine.com
-venmo.com
 xoom.com 
 fivetran.com
 wien.gv.at
